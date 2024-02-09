@@ -1,0 +1,50 @@
+/* styles.css */
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: brown;
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+h2 {
+    color: darkmagenta;
+    font-weight: 700;
+    font-size: large;
+}
+
+#title {
+    color: blueviolet;
+    background-color: blanchedalmond;
+    font-size: xx-large;
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.backy-g {
+    background-color: black;
+    color: aliceblue;
+}
+
+.nav {
+    font-weight: 300;
+    font-style: italic;
+    font-size: small;
+}
+
+.list-header {
+    color: brown;
+    background-color: aquamarine;
+}
+
+.list-items {
+    color: blue;
+    background-color: pink;
+}
+
+.little-shit {
+    font-size: small;
+}
